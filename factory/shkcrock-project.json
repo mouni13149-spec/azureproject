@@ -1,0 +1,15 @@
+{
+	"name": "shkcrock-project",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bd0fbc19-b720-4510-8b22-bfed965d54e9",
+		"tenantId": "a53dbb04-7a38-4f8f-9e29-d933ad4e43ea"
+	}
+}
